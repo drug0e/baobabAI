@@ -1,0 +1,138 @@
+[2026-03-17T01:16:39.513Z] 1477069935766794558 1475560241705304072 warning warning Moderation model failed; defaulting to warning.
+[2026-03-17T01:16:54.352Z] 1477069935766794558 1475560241705304072 warning warning Moderation model failed; defaulting to warning.
+[2026-03-17T01:17:52.714Z] 1477069935766794558 1475560241705304072 warning warning Moderation model failed; defaulting to warning.
+[2026-03-17T01:20:09.151Z] 1477069935766794558 1475560241705304072 warning warning Moderation model failed; defaulting to warning.
+[2026-03-17T01:21:24.639Z] 1477069935766794558 1475560241705304072 warning warning Moderation model failed; defaulting to warning.
+[2026-03-17T01:24:28.263Z] 1477069935766794558 1475560241705304072 warning warning Moderation model failed; defaulting to warning.
+[2026-03-17T01:45:23.279Z] 1477069935766794558 1475560241705304072 ban ban The message contains racist language and stereotypes, which is strictly prohibited.
+[2026-03-17T01:45:47.744Z] 1477069935766794558 1475560241705304072 ban ban The message contains racist language and stereotypes, which is strictly prohibited.
+[2026-03-17T01:51:02.751Z] 1477069935766794558 1477416008205189120 ban ban The message contains racist language and stereotypes, which is strictly prohibited.
+[2026-03-17T01:51:13.091Z] 1477069935766794558 1477416008205189120 warning warning Repeated message without meaning
+[2026-03-17T01:55:49.808Z] 1477069935766794558 1475560241705304072 ban ban The message contains explicit and mature language, which is not allowed in the chat.
+[2026-03-17T01:59:40.842Z] 1477069935766794558 1475560241705304072 ban ban The message contains explicit and potentially disturbing content.
+[2026-03-17T02:02:22.785Z] 1477069935766794558 1475560241705304072 ban ban The attachment URL contains a potentially malicious link to a video file, which could be a virus or a crash sticker.
+[2026-03-17T02:06:03.493Z] 1477069935766794558 1475560241705304072 ban ban The attachment URL contains a potentially malicious link, which may contain a virus or other malicious content.
+[2026-03-17T02:09:31.313Z] 1477069935766794558 1475560241705304072 ban ban The attachment URL contains a potentially malicious file (.mp3) that could be a virus or a crash sticker.
+[2026-03-17T02:10:37.420Z] 1477069935766794558 1477416008205189120 ban ban The message contains a statement that may be considered offensive or praising a controversial figure.
+[2026-03-17T02:10:52.248Z] 1477069935766794558 1477416008205189120 ban ban The message contains a reference to a well-known figure associated with Nazi ideology, which is strictly prohibited.
+[2026-03-17T02:13:50.712Z] 1477069935766794558 1475560241705304072 ban ban The message contains a reference to a known racist figure, Oksimiron, who is associated with white supremacist ideology.
+[2026-03-17T02:16:10.763Z] 1477069935766794558 1477416008205189120 ban ban The message contains a reference to a Nazi leader, which is strictly forbidden.
+[2026-03-17T02:16:31.119Z] 1477069935766794558 1477416008205189120 ban ban The message contains a statement that may be considered offensive or praising a controversial figure.
+[2026-03-17T02:17:31.913Z] 1477069935766794558 1477416008205189120 ban ban The message contains a reference to a sensitive and offensive topic.
+[2026-03-17T02:24:18.737Z] 1477069935766794558 1475560241705304072 ban ban The message contains a reference to a sensitive and controversial figure, which may be considered hate speech.
+[2026-03-17T02:33:40.371Z] 1477069935766794558 1477416008205189120 ban ban The message contains a reference to a controversial and sensitive figure, which may be perceived as hate speech.
+[2026-03-17T02:36:37.167Z] [warn] WS closed {"code":4004,"reason":{"type":"Buffer","data":[73,110,118,97,108,105,100,32,116,111,107,101,110]}}
+[2026-03-17T02:36:38.511Z] [warn] WS closed {"code":4004,"reason":{"type":"Buffer","data":[73,110,118,97,108,105,100,32,116,111,107,101,110]}}
+[2026-03-17T02:36:39.861Z] [warn] WS closed {"code":4004,"reason":{"type":"Buffer","data":[73,110,118,97,108,105,100,32,116,111,107,101,110]}}
+[2026-03-17T02:36:41.398Z] [warn] WS closed {"code":4004,"reason":{"type":"Buffer","data":[73,110,118,97,108,105,100,32,116,111,107,101,110]}}
+[2026-03-17T02:36:42.850Z] [warn] WS closed {"code":4004,"reason":{"type":"Buffer","data":[73,110,118,97,108,105,100,32,116,111,107,101,110]}}
+[2026-03-17T02:36:44.215Z] [warn] WS closed {"code":4004,"reason":{"type":"Buffer","data":[73,110,118,97,108,105,100,32,116,111,107,101,110]}}
+[2026-03-17T02:36:45.738Z] [warn] WS closed {"code":4004,"reason":{"type":"Buffer","data":[73,110,118,97,108,105,100,32,116,111,107,101,110]}}
+[2026-03-17T02:36:46.988Z] [warn] Did not receive READY within timeout 
+[2026-03-17T02:36:47.334Z] [warn] WS closed {"code":4004,"reason":{"type":"Buffer","data":[73,110,118,97,108,105,100,32,116,111,107,101,110]}}
+[2026-03-17T02:36:48.355Z] [warn] Did not receive READY within timeout 
+[2026-03-17T02:36:48.905Z] [warn] WS closed {"code":4004,"reason":{"type":"Buffer","data":[73,110,118,97,108,105,100,32,116,111,107,101,110]}}
+[2026-03-17T02:36:49.706Z] [warn] Did not receive READY within timeout 
+[2026-03-17T02:36:50.327Z] [warn] WS closed {"code":4004,"reason":{"type":"Buffer","data":[73,110,118,97,108,105,100,32,116,111,107,101,110]}}
+[2026-03-17T02:36:51.226Z] [warn] Did not receive READY within timeout 
+[2026-03-17T02:36:51.694Z] [warn] WS closed {"code":4004,"reason":{"type":"Buffer","data":[73,110,118,97,108,105,100,32,116,111,107,101,110]}}
+[2026-03-17T02:36:52.713Z] [warn] Did not receive READY within timeout 
+[2026-03-17T02:36:53.329Z] [warn] WS closed {"code":4004,"reason":{"type":"Buffer","data":[73,110,118,97,108,105,100,32,116,111,107,101,110]}}
+[2026-03-17T02:36:54.050Z] [warn] Did not receive READY within timeout 
+[2026-03-17T02:36:54.707Z] [warn] WS closed {"code":4004,"reason":{"type":"Buffer","data":[73,110,118,97,108,105,100,32,116,111,107,101,110]}}
+[2026-03-17T02:36:55.557Z] [warn] Did not receive READY within timeout 
+[2026-03-17T02:36:56.041Z] [warn] WS closed {"code":4004,"reason":{"type":"Buffer","data":[73,110,118,97,108,105,100,32,116,111,107,101,110]}}
+[2026-03-17T02:36:57.156Z] [warn] Did not receive READY within timeout 
+[2026-03-17T02:36:57.437Z] [warn] WS closed {"code":4004,"reason":{"type":"Buffer","data":[73,110,118,97,108,105,100,32,116,111,107,101,110]}}
+[2026-03-17T02:36:58.758Z] [warn] Did not receive READY within timeout 
+[2026-03-17T02:36:58.858Z] [warn] WS closed {"code":4004,"reason":{"type":"Buffer","data":[73,110,118,97,108,105,100,32,116,111,107,101,110]}}
+[2026-03-17T02:37:00.152Z] [warn] Did not receive READY within timeout 
+[2026-03-17T02:37:00.248Z] [warn] WS closed {"code":4004,"reason":{"type":"Buffer","data":[73,110,118,97,108,105,100,32,116,111,107,101,110]}}
+[2026-03-17T02:37:01.539Z] [warn] Did not receive READY within timeout 
+[2026-03-17T02:37:01.641Z] [warn] WS closed {"code":4004,"reason":{"type":"Buffer","data":[73,110,118,97,108,105,100,32,116,111,107,101,110]}}
+[2026-03-17T02:37:03.032Z] [warn] WS closed {"code":4004,"reason":{"type":"Buffer","data":[73,110,118,97,108,105,100,32,116,111,107,101,110]}}
+[2026-03-17T02:37:03.137Z] [warn] Did not receive READY within timeout 
+[2026-03-17T02:37:04.413Z] [warn] WS closed {"code":4004,"reason":{"type":"Buffer","data":[73,110,118,97,108,105,100,32,116,111,107,101,110]}}
+[2026-03-17T02:37:04.542Z] [warn] Did not receive READY within timeout 
+[2026-03-17T02:37:05.710Z] [warn] WS closed {"code":4008,"reason":{"type":"Buffer","data":[82,97,116,101,32,108,105,109,105,116,101,100]}}
+[2026-03-17T02:37:05.888Z] [warn] Did not receive READY within timeout 
+[2026-03-17T02:37:07.052Z] [warn] WS closed {"code":4008,"reason":{"type":"Buffer","data":[82,97,116,101,32,108,105,109,105,116,101,100]}}
+[2026-03-17T02:37:07.280Z] [warn] Did not receive READY within timeout 
+[2026-03-17T02:37:08.352Z] [warn] WS closed {"code":4008,"reason":{"type":"Buffer","data":[82,97,116,101,32,108,105,109,105,116,101,100]}}
+[2026-03-17T02:37:08.687Z] [warn] Did not receive READY within timeout 
+[2026-03-17T02:37:09.634Z] [warn] WS closed {"code":4008,"reason":{"type":"Buffer","data":[82,97,116,101,32,108,105,109,105,116,101,100]}}
+[2026-03-17T02:37:10.082Z] [warn] Did not receive READY within timeout 
+[2026-03-17T02:37:10.887Z] [warn] WS closed {"code":4008,"reason":{"type":"Buffer","data":[82,97,116,101,32,108,105,109,105,116,101,100]}}
+[2026-03-17T02:37:11.474Z] [warn] Did not receive READY within timeout 
+[2026-03-17T02:37:12.186Z] [warn] WS closed {"code":4008,"reason":{"type":"Buffer","data":[82,97,116,101,32,108,105,109,105,116,101,100]}}
+[2026-03-17T02:37:12.865Z] [warn] Did not receive READY within timeout 
+[2026-03-17T02:37:13.517Z] [warn] WS closed {"code":4008,"reason":{"type":"Buffer","data":[82,97,116,101,32,108,105,109,105,116,101,100]}}
+[2026-03-17T02:37:14.256Z] [warn] Did not receive READY within timeout 
+[2026-03-17T02:37:14.795Z] [warn] WS closed {"code":4008,"reason":{"type":"Buffer","data":[82,97,116,101,32,108,105,109,105,116,101,100]}}
+[2026-03-17T02:37:15.632Z] [warn] Did not receive READY within timeout 
+[2026-03-17T02:37:16.044Z] [warn] WS closed {"code":4008,"reason":{"type":"Buffer","data":[82,97,116,101,32,108,105,109,105,116,101,100]}}
+[2026-03-17T02:37:16.977Z] [warn] Did not receive READY within timeout 
+[2026-03-17T02:37:17.301Z] [warn] WS closed {"code":4008,"reason":{"type":"Buffer","data":[82,97,116,101,32,108,105,109,105,116,101,100]}}
+[2026-03-17T02:37:18.272Z] [warn] Did not receive READY within timeout 
+[2026-03-17T02:37:18.576Z] [warn] WS closed {"code":4008,"reason":{"type":"Buffer","data":[82,97,116,101,32,108,105,109,105,116,101,100]}}
+[2026-03-17T02:37:19.556Z] [warn] Did not receive READY within timeout 
+[2026-03-17T02:37:19.892Z] [warn] WS closed {"code":4008,"reason":{"type":"Buffer","data":[82,97,116,101,32,108,105,109,105,116,101,100]}}
+[2026-03-17T02:37:20.812Z] [warn] Did not receive READY within timeout 
+[2026-03-17T02:37:21.208Z] [warn] WS closed {"code":4008,"reason":{"type":"Buffer","data":[82,97,116,101,32,108,105,109,105,116,101,100]}}
+[2026-03-17T02:37:22.096Z] [warn] Did not receive READY within timeout 
+[2026-03-17T02:37:22.462Z] [warn] WS closed {"code":4008,"reason":{"type":"Buffer","data":[82,97,116,101,32,108,105,109,105,116,101,100]}}
+[2026-03-17T02:37:23.441Z] [warn] Did not receive READY within timeout 
+[2026-03-17T02:37:23.733Z] [warn] WS closed {"code":4008,"reason":{"type":"Buffer","data":[82,97,116,101,32,108,105,109,105,116,101,100]}}
+[2026-03-17T02:37:24.726Z] [warn] Did not receive READY within timeout 
+[2026-03-17T02:37:24.984Z] [warn] WS closed {"code":4008,"reason":{"type":"Buffer","data":[82,97,116,101,32,108,105,109,105,116,101,100]}}
+[2026-03-17T02:37:25.982Z] [warn] Did not receive READY within timeout 
+[2026-03-17T02:37:26.245Z] [warn] WS closed {"code":4008,"reason":{"type":"Buffer","data":[82,97,116,101,32,108,105,109,105,116,101,100]}}
+[2026-03-17T02:37:27.230Z] [warn] Did not receive READY within timeout 
+[2026-03-17T02:37:27.504Z] [warn] WS closed {"code":4008,"reason":{"type":"Buffer","data":[82,97,116,101,32,108,105,109,105,116,101,100]}}
+[2026-03-17T02:37:28.502Z] [warn] Did not receive READY within timeout 
+[2026-03-17T02:37:28.787Z] [warn] WS closed {"code":4008,"reason":{"type":"Buffer","data":[82,97,116,101,32,108,105,109,105,116,101,100]}}
+[2026-03-17T02:37:29.827Z] [warn] Did not receive READY within timeout 
+[2026-03-17T02:37:30.036Z] [warn] WS closed {"code":4008,"reason":{"type":"Buffer","data":[82,97,116,101,32,108,105,109,105,116,101,100]}}
+[2026-03-17T02:37:31.128Z] [warn] Did not receive READY within timeout 
+[2026-03-17T02:37:31.327Z] [warn] WS closed {"code":4008,"reason":{"type":"Buffer","data":[82,97,116,101,32,108,105,109,105,116,101,100]}}
+[2026-03-17T02:37:32.395Z] [warn] Did not receive READY within timeout 
+[2026-03-17T02:37:32.579Z] [warn] WS closed {"code":4008,"reason":{"type":"Buffer","data":[82,97,116,101,32,108,105,109,105,116,101,100]}}
+[2026-03-17T02:37:33.664Z] [warn] Did not receive READY within timeout 
+[2026-03-17T02:37:33.867Z] [warn] WS closed {"code":4008,"reason":{"type":"Buffer","data":[82,97,116,101,32,108,105,109,105,116,101,100]}}
+[2026-03-17T02:37:34.162Z] [warn] SIGINT received. Shutting down... 
+[2026-03-17T02:38:23.334Z] 1477069935766794558 1475560241705304072 warning warning 0 Classifier error: GROQ_API_KEY is not set. Set it in the environment.
+[2026-03-17T02:38:23.552Z] [error] Failed to send message {"channelId":"1477069935766794558","err":"Request failed with status code 403"}
+[2026-03-17T02:38:34.641Z] [warn] SIGINT received. Shutting down... 
+[2026-03-17T02:39:02.947Z] 1477069935766794558 1475560241705304072 warning warning 0 The message contains a reference to a controversial historical figure, which may be perceived as promoting extremist views. Model uncertain.
+[2026-03-17T02:39:03.150Z] [error] Failed to send message {"channelId":"1477069935766794558","err":"Request failed with status code 403"}
+[2026-03-17T02:45:03.053Z] 1477069935766794558 1477416008205189120 warning warning The message contains a reference to a controversial political figure, which may be considered hate speech.
+[2026-03-17T03:07:20.276Z] 1477069935766794558 1475560241705304072 ban ban The name 'путин' is associated with a controversial and sensitive figure, potentially violating the rule against racism and Nazism.
+[2026-03-17T03:09:32.133Z] 1477069935766794558 1475560241705304072 ban ban The message contains a reference to a controversial and sensitive figure, potentially associated with racist or discriminatory ideologies.
+[2026-03-17T03:12:44.431Z] 1477069935766794558 1475560241705304072 ban ban The name 'путин' is associated with a controversial and sensitive figure, potentially violating the rule against racism and Nazism.
+[2026-03-17T03:13:17.683Z] 1477069935766794558 1475560241705304072 ban ban The message contains a reference to a controversial and sensitive figure, potentially associated with racist or discriminatory ideologies.
+[2026-03-17T03:13:18.237Z] 1477069935766794558 1475560241705304072 ban ban The name 'путин' is associated with a controversial and sensitive figure, potentially violating the rule against racism and Nazism.
+[2026-03-17T03:14:05.421Z] 1477069935766794558 1474707832023814205 ban ban The message contains a reference to a controversial and sensitive figure, which may be perceived as hate speech.
+[2026-03-17T03:30:02.368Z] 1477069935766794558 1477416008205189120 ban ban The message contains a reference to a controversial and sensitive figure, which may be perceived as hate speech.
+[2026-03-17T05:48:58.877Z] 1477069935766794558 1475560241705304072 ban ban The message contains racist language and derogatory terms.
+[2026-03-17T05:55:53.997Z] 1477069935766794558 1475560241705304072 mute mute The message contains a name associated with a sensitive and controversial topic.
+[2026-03-17T05:56:03.975Z] 1477069935766794558 1475560241705304072 ban ban The message contains a reference to a controversial figure associated with racist ideologies.
+[2026-03-17T21:20:59.021Z] 1477069935766794558 1475560241705304072 ban ban The message contains a reference to a historical figure associated with Nazi ideology.
+[2026-03-17T21:21:11.292Z] 1477069935766794558 1475560241705304072 mute mute The message contains a reference to a historical figure associated with Nazi ideology.
+[2026-03-17T21:21:28.490Z] 1477069935766794558 1475560241705304072 mute mute The message contains a reference to a historical figure associated with Nazi ideology.
+[2026-03-17T21:21:39.244Z] 1477069935766794558 1475560241705304072 mute mute The mention of Hitler is associated with Nazi ideology, which is prohibited.
+[2026-03-17T21:22:01.793Z] 1477069935766794558 1475560241705304072 ban ban The message contains a known racist and Nazi-related symbol.
+[2026-03-17T21:22:19.843Z] 1477069935766794558 1475560241705304072 mute mute The message contains a reference to a Nazi leader, which is prohibited.
+{"timestamp":"2026-03-17T21:42:01.385Z","user_id":"1475560241705304072","message_id":"1483581194620608799","violation_type":"Sexual or explicit content","severity":"severe","mute_duration":4320,"reason":"The image contains explicit content, possibly depicting a person in a state of undress or engaging in a sexual act. The model was uncertain about the context, but the content appears to be explicit.","rule_id":1,"rule_name":"Sexual or explicit content"}
+[2026-03-17T21:42:01.386Z] DM 1475560241705304072 ban ban Sexual or explicit content
+{"timestamp":"2026-03-17T21:44:20.699Z","user_id":"1475560241705304072","message_id":"1483581780153835809","violation_type":"Sexual or explicit content","severity":"severe","mute_duration":4320,"reason":"The image contains explicit content, possibly depicting a person in a state of undress or engaging in a sexual act. The model was uncertain about the context, but the content appears to be explicit.","rule_id":1,"rule_name":"Sexual or explicit content"}
+{"timestamp":"2026-03-17T21:44:45.911Z","user_id":"1475560241705304072","message_id":"1483581885162430755","violation_type":"Sexual or explicit content","severity":"severe","mute_duration":4320,"reason":"The image contains explicit content, possibly depicting a person in a state of undress or engaging in a sexual act. The model was uncertain about the context, but the content appears to be explicit.","rule_id":1,"rule_name":"Sexual or explicit content"}
+{"timestamp":"2026-03-17T21:45:07.483Z","user_id":"1475560241705304072","message_id":"1483581975788757286","violation_type":"Sexual or explicit content","severity":"severe","mute_duration":4320,"reason":"The image contains explicit content, possibly depicting a person in a state of undress or engaging in a sexual act. The model was uncertain about the context, but the content appears to be explicit.","rule_id":1,"rule_name":"Sexual or explicit content"}
+{"timestamp":"2026-03-17T22:00:02.977Z","user_id":"1475560241705304072","message_id":"1483585730512920880","violation_type":"Sexual or explicit content","severity":"severe","mute_duration":4320,"reason":"The image contains explicit content, possibly depicting a person in a state of undress or engaging in a sexual act. The model was uncertain about the context, but the content appears to be explicit.","rule_id":1,"rule_name":"Sexual or explicit content"}
+[2026-03-17T22:00:02.978Z] 1477069935766794558 1475560241705304072 ban ban Sexual or explicit content
+{"timestamp":"2026-03-17T22:00:57.367Z","user_id":"1475560241705304072","message_id":"1483585960419500339","violation_type":"Sexual or explicit content","severity":"severe","mute_duration":4320,"reason":"The image contains explicit content, possibly depicting a person in a state of undress or engaging in a sexual act. The model was uncertain about the context, but the content appears to be explicit.","rule_id":1,"rule_name":"Sexual or explicit content"}
+[2026-03-17T22:00:57.367Z] 1477069935766794558 1475560241705304072 ban ban Sexual or explicit content
+[2026-03-17T22:13:37.674Z] 1477069935766794558 1475560241705304072 mute mute Repeated meaningless messages
+[2026-03-17T22:16:48.677Z] 1477069935766794558 1475560241705304072 mute mute Repeated meaningless messages
+[2026-03-17T22:21:30.837Z] 1477069935766794558 1475560241705304072 mute mute Repeated message without meaning
+[2026-03-17T22:21:59.113Z] 1477069935766794558 1475560241705304072 mute mute Repeated meaningless messages
+[2026-03-17T22:44:30.627Z] 1477069935766794558 1474707832023814205 ban ban The message contains hate speech and a derogatory term towards a specific person.

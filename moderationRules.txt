@@ -1,0 +1,16 @@
+1. Spam and Flood: No meaningless or repeated messages. | Penalty: warn / mute up to 3h.
+2. Insults and Conflicts: Avoid conflicts. Move to private chat if a quarrel occurs. | Penalty: warn / mute up to 2h.
+3. Hate Speech: No actions offending religious, cultural, or other sensitive topics. | Penalty: warn / mute up to 8h.
+4. Advertising: No promotion of external resources. | Penalty: ban.
+5. Privacy: Do not share personal information without consent. | Penalty: warn / mute up to 24h.
+6. Politics: Political discussions are strictly forbidden. | Penalty: warn.
+7. Racism and Nazism: No racist or Nazi-related statements or symbols. | Penalty: warn / mute up to 6h.
+8. Fraud: Any fraudulent action leads to immediate permanent ban. | Penalty: permanent ban.
+9. Begging: Do not ask for gifts, roles, or currency. | Penalty: warn / mute up to 1h.
+10. Inappropriate Behavior: Nonsense or improper behavior is forbidden. | Penalty: warn / mute up to 2h.
+11. Malicious Content: No viruses, malicious links, or crash stickers. | Penalty: ban up to 72h.
+12. Commercial Activity: Buying, selling, trading, or exchanging in chat is forbidden. | Penalty: warn / mute up to 2h.
+13. Threats and Blackmail: Any form of pressure or threats to participants. | Penalty: ban.
+14. Disinformation: Spreading false info about the project, moderators, or users. | Penalty: warn.
+15. Illegal Substances/Organizations: No promotion of illegal items or groups. | Penalty: ban.
+16. Shock content / 18+: No pornography, cruelty, or shocking content. | Penalty: ban up to 7d.
